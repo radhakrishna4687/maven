@@ -5,7 +5,7 @@
   <groupId>classroom</groupId>
   <artifactId>demo</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>ear</packaging>
+  <packaging>war</packaging>
 
   <name>demo</name>
   <url>http://maven.apache.org</url>
